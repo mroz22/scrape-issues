@@ -1,0 +1,69 @@
+
+        Add trezor-connect integration
+      ,
+        Add router config
+      ,
+        Add custom fonts to @trezor/suite
+      ,
+        idea: Input focus styles
+      ,
+        Pin Input padding
+      ,
+        colors should be abstract
+      ,
+        Loader default stroke width to 2px
+      ,
+        Write unit tests for utils
+      ,
+        React Native build on android
+      ,
+        Storybook shows weird story source for some components
+      ,
+        Cannot open ios app
+      ,
+        Cannot run android app
+      ,
+        Run metro builder in parallel with run-android
+      ,
+        Add tests
+      ,
+        Setup continuous integration for every package
+      ,
+        add trezor-logos
+      ,
+        Storybook for react-native
+      ,
+        Build scripts
+      ,
+        Font size inconsinsency due to root font size
+      ,
+        Update to storybook 5
+      ,
+        Add icons
+      ,
+        Add react-native hot reloading
+      ,
+        Android: make running trezor-connect on devices
+      ,
+        Add storage support
+      ,
+        Feature/add ui components
+      ,
+        Message - Do you want the app to accept incoming connections?
+      ,
+        Add trezor ui components repo
+      ,
+        Add rollout library
+      ,
+        Feature/trezor connect
+      ,
+        Add more packages to monorepo
+      ,
+        #26 Pin Input padding
+      ,
+        Add components library
+      ,
+        add language picker to components
+      ,
+        #25 Storybook shows weird story source for some components
+      ,
