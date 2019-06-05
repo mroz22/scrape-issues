@@ -7,7 +7,10 @@
 
 ###How to use the script
 
-1.Run in console:<br/>
+0.Run 
+>git clone https://github.com/mroz22/scrape-issues.git
+
+1.Run in console:
 >npm install
 
 2.Set your config from the file *config.json* where:
@@ -18,20 +21,3 @@
 
 3.Then run in the console:<br/>
 >node issuescrape
-
-###Where are the issues?
-
-The issues will be saved in the folder named *issues* in the next format:<br/>
-*user*-*repository*-issue-*issueNumber*.html
-
-
----
-
-###Known bugs:
-It will only save the first comment on each issue since that's the way I needed it. Will fix later and add more options.
-
----
-
-###Other Info:
->Written in Javascript for Node.js with the next packages included: "request", "cheerio" and "fs".<br/>
->For more information or anything else, contact me at xclubcontest@gmail.com
